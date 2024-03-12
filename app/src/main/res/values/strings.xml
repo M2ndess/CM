@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">001_PrimeiraAppAndroid</string>
+    <string name="bemvindo">Bem-vindo</string>
+    <string name="convert_string" translatable="false">Convert</string>
+    <string name="convert" translatable="false">Convert</string>
+    <string name="dollars" translatable="false">dollars</string>
+    <string name="no_value_string" translatable="false">No Value</string>
+</resources>
